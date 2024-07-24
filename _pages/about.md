@@ -13,6 +13,7 @@ DEGREES
 ======
 **M.Sc in Applied GIS**
 National University of Singapore, Singapore, Oct 2021 - Oct 2022
+
 **B.Sc in Human Geography and Urban-Rural Planning**
 South China Normal University, China, Sep 2017 - Jul 2021
 
